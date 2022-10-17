@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-example';
+  subtittle = 'Ejemplo angular';
+  numeros = [1, 2, 3, 4];
+  mostrar: boolean = true;
 }
